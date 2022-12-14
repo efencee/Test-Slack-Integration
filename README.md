@@ -1,2 +1,1 @@
-# Test-Slack-Integration
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWvG6m1gDUV8Ft_bINv2Ah0ele9K7YggkbxPpsuWo&s
+This repository is to test Slack integrations that could be helpful in our search for one that best suits our GItHub-Slack needs.
